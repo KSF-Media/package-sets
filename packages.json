@@ -1330,7 +1330,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/KSF-Media/purescript-react-basic.git",
-    "version": "fix/form"
+    "version": "fix-form"
   },
   "react-dom": {
     "dependencies": [
