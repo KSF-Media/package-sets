@@ -1601,6 +1601,18 @@
     "repo": "https://github.com/purescript-contrib/purescript-these.git",
     "version": "v4.0.0"
   },
+  "toppokki": {
+    "dependencies": [
+      "aff-promise",
+      "functions",
+      "node-buffer",
+      "node-http",
+      "prelude",
+      "record"
+    ],
+    "repo": "https://github.com/justinwoo/purescript-toppokki.git",
+    "version": "v1.0.0"
+  },
   "transformers": {
     "dependencies": [
       "control",
