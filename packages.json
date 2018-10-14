@@ -1552,8 +1552,8 @@
       "web-dom",
       "web-events"
     ],
-    "repo": "https://github.com/lumihq/purescript-react-basic.git",
-    "version": "v3.0.0"
+    "repo": "https://github.com/KSF-Media/purescript-react-basic.git",
+    "version": "f-f/more-events"
   },
   "react-dom": {
     "dependencies": [
