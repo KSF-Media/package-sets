@@ -1330,7 +1330,10 @@
       "unsafe-coerce",
       "web-events",
       "web-dom",
-      "exceptions"
+      "exceptions",
+      "console",
+      "web-html",
+      "aff"
     ],
     "repo": "https://github.com/lumihq/purescript-react-basic.git",
     "version": "v5.0.0"
