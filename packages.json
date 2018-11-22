@@ -1333,7 +1333,7 @@
       "exceptions"
     ],
     "repo": "https://github.com/lumihq/purescript-react-basic.git",
-    "version": "v2.0.0"
+    "version": "v5.0.0"
   },
   "react-dom": {
     "dependencies": [
